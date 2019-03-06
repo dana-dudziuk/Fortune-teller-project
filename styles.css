@@ -1,0 +1,36 @@
+h3{
+    font-family:courgette;
+    text-align:center;
+    }
+    
+h1{
+    font-family:courgette;
+    text-align:center;
+    }    
+  
+input{
+    display: block;
+    margin: 0 auto;
+    } 
+    
+body{
+    background-color:lavender;
+    color:mediumpurple;
+    }
+    
+button{
+    display: block;
+    margin: 0 auto;
+    }    
+    
+p{
+    font-family:courgette;
+    font-size:25px;
+    } 
+
+img{
+    
+    
+    }  
+    
+    
